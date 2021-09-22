@@ -7,7 +7,7 @@ Ultra minimal Jekyll theme that focuses on content. Respirare it is 100% respons
 You can see a demo on [my own blog](http://catorceveces.github.io). (Note that some navigation config are different).
 
 <p align=“center”>
-  <img width="620" height="310" src="https://github.com/catorceveces/respirare/blob/main/default-screenshot.png">
+  <img width="600" height="310" src="https://github.com/catorceveces/respirare/blob/main/default-screenshot.png">
 </p>
 
 ## Installation
@@ -20,8 +20,8 @@ A server will be running on http://localhost:4000 by default.
 
 ## Features
 
-Clean design.
-Clean code, easy to customize.
-100% Responsive layout.
-[Google Fonts](https://fonts.google.com).
-CSS built on [Skeleton Framework](http://getskeleton.com).
+* Clean design.
+* Clean code, easy to customize.
+* 100% Responsive layout.
+* [Google Fonts](https://fonts.google.com).
+* CSS built on [Skeleton Framework](http://getskeleton.com).
